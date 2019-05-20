@@ -1,0 +1,88 @@
+ALPHABET,COMMON NAME,SCIENTIFIC NAME,PLACE,CONTINENT,CONSERVATION STATUS, LEVEL OF RISKS
+A,African Elephant,Loxodonta africana,Congo Basin,African,Vulnerable,3
+A,African Wild Dog,Lycaon pictus,Coastal East Africa,African,Endangered,4
+A,Albacore Tuna,Thunnus alalunga,The Galapagos,South American,Near Threatened,2
+A,Amur Leopard,Panthera pardus orientalis,Amazon,South American,Critically Endangered,5
+A,Amur Tiger,Panthera tigris altaica,Amur-Heilong,Eurasian,Endangered,4
+A,Arctic Fox,Vulpes lagopus,Amur-Heilong,Eurasian,Least Concern,1
+A,Arctic Wolf,Canis lupus arctos,Polar Regions,Antarctica,Least Concern,1
+A,Asian Elephant,Elephas maximus indicus,Greater Mekong,Asian,Endangered,4
+B,Beluga,Delphinapterus leucas,Arctic,Eurasian,Near Threatened,2
+B,Bengal Tiger,Panthera tigris tigris,India,Asian,Endangered,4
+B,Bigeye Tuna,Thunnus obesus,The Galapagos,South American,Vulnerable,3
+B,Black Rhino,Diceros bicornis,East Africa,African,Critically Endangered,5
+B,Black Spider Monkey,Ateles paniscus,Amazon,South American,Vulnerable,3
+B,Black-footed Ferret,Mustela nigripes,Northern Great Plains,North American,Endangered,4
+B,Blue Whale,Balaenoptera musculus,Southern Chile,South American,Endangered,4
+B,Bluefin Tuna,Thunnus Thynnus,Coral Triangle,Asian,Endangered,4
+B,Bonobo,Pan paniscus,Congo Basin,African,Endangered,4
+B,Bornean Orangutan,Pongo pygmaeus,Borneo and Sumatra,Asian,Critically Endangered,5
+B,Borneo Pygmy Elephant,Elephas maximus borneensis,Borneo and Sumatra,Asian,Endangered,4
+B,Bowhead Whale,Balaena mysticetus,Arctic,Eurasian,Least Concern,1
+B,Brown Bear,Ursus arctos,Arctic,Eurasian,Least Concern,1
+C,Chimpanzee,Pan troglodytes,Congo Basin,African,Endangered,4
+C,Common Bottlenose Dolphin,Tursiops truncates,Coastal South America,South American,Least Concern,1
+C,Cross River Gorilla,Gorilla gorilla diehli,Congo Basin,African,Critically Endangered,5
+D,Dugong,Dugong dugon,Coastal East Africa,African,Vulnerable,3
+E,Eastern Lowland Gorilla,Gorilla beringei graueri,Congo Basin,African,Critically Endangered,5
+F,Fin Whale,Balaenoptera physalus,Arctic,Eurasian,Endangered,4
+F,Forest Elephant,L. Cyclotis,The Galapagos,South American,Vulnerable,3
+G,Galapagos Penguin,Spheniscus mendiculus,Congo Basin,African,Endangered,4
+G,Ganges River Dolphin,Platanista gangetica gangetica,Eastern Himalayas,Asian,Endangered,4
+G,Giant Panda,Ailuropoda melanoleuca,Yangtze,Asian,Vulnerable,3
+G,Giant Tortoise,Chelonoidis nigra,The Galapagos,South American,Vulnerable,3
+G,Gray Whale,Eschrichtius robustus,Arctic,Eurasian,Least Concern,1
+G,Great White Shark,Carcharodon carcharias,Southern Chile,South American,Vulnerable,3
+G,Greater One-Horned Rhino,Rhinoceros unicornis,Eastern Himalayas,Asian,Vulnerable,3
+G,Greater Sage-Grouse,Centrocercus urophasianus,Northern Great Plains,North American,Near Threatened,2
+G,Green Turtle,Chelonia mydas,The Galapagos,South American,Endangered,4
+H,Hawksbill Turtle,Eretmochelys imbricata,Coastal East Africa,African,Critically Endangered,5
+H,Hector's Dolphin,Cephalorhynchus hectori,New Zealand,Australian,Endangered,4
+H,Hippopotamus,Hippopotamus amphibius,Africa,African,Vulnerable,3
+H,Humphead Wrasse,Cheilinus undulatus,Coastal East Africa,African,Endangered,4
+I,Indian Elephant,Elephas maximus indicus,India,Asian,Endangered,4
+I,Indochinese Tiger,Panthera tigris corbetti,Greater Mekong,Asian,Endangered,4
+I,Indus River Dolphin,Platanista minor,Pakistan,Asian,Endangered,4
+I,Irrawaddy Dolphin,Orcaella brevirostris,Greater Mekong,Asian,Endangered,4
+J,Jaguar,Panthera onca,Amazon,South American,Near Threatened,2
+J,Javan Rhino,Rhinoceros sondaicus,Indonesia,Asian,Critically Endangered,5
+L,Leatherback Turtle,Dermochelys coriacea,Coastal East Africa,African,Vulnerable,3
+L,Loggerhead Turtle,Caretta caretta,Coastal East Africa,African,Vulnerable,3
+M,Macaw,Ara ararauna,Amazon,South American,Least Concern,1
+M,Malayan Tiger,Panthera tigris jacksoni,Malay Peninsula ,Asian,Critically Endangered,5
+M,Marine Iguana,Amblyrhynchus cristatus,The Galapagos,South American,Vulnerable,3
+M,Mountain Gorilla,Gorilla beringei beringei,Congo Basin,African,Endangered,4
+M,Mountain Plover,Charadrius montanus,Northern Great Plains,North American,Near Threatened,2
+N,Narwhal,Monodon monoceros,Arctic,Eurasian,Near Threatened,2
+N,North Atlantic Right Whale,Eubalaena glacialis,North Atlantic,Antarctica,Endangered,4
+O,Olive Ridley Turtle,Lepidochelys olivacea,Coastal East Africa,African,Vulnerable,3
+O,Orangutan,"Pongo abelii, Pongo pygmaeus",Bornean and Sumatran,Asian,Critically Endangered,5
+P,Plains Bison,Bison bison bison,Northern Great Plains,North American,Near Threatened,2
+P,Polar Bear,Ursus maritimus,Arctic,Eurasian,Vulnerable,3
+P,Pronghorn,Antilocarpa americana,Northern Great Plains,North American,Least Concern,1
+R,Red Panda,Ailurus fulgens,Northern Great Plains,North American,Endangered,4
+S,Saola,Pseudoryx nghetinhensis,Greater Mekong,Asian,Critically Endangered,5
+S,Savanna Elephant,Loxodonta africana africana,Namibia,African,Vulnerable,3
+S,Sea Lions,Zalophus wollebaeki,The Galapagos,South American,Endangered,4
+S,Sea Turtle,Cheloniidae and Dermochelyidae families,The Galapagos,South American,Vulnerable,3
+S,Sei Whale,Balaenoptera borealis,The Galapagos,South American,Endangered,4
+S,Skipjack Tuna,Katsuwonus pelamis,The Galapagos,South American,Least Concern,1
+S,Sloth,Bradypus pygmaeus,Amazon,South American,Endangered ,4
+S,Snow Leopard,Panthera uncia,Yangtze,Asian,Vulnerable,3
+S,South China Tiger,Panthera tigris amoyensis,China,Asian,Critically Endangered,5
+S,Southern rockhopper penguin,Eudyptes chrysocome,Coastal South America,South American,Vulnerable,3
+S,Sri Lankan Elephant,Elephas maximus maximus,Sri Lankan,Asian,Endangered,4
+S,Sumatran Elephant,Elephas maximus sumatranus,Borneo and Sumatra,Asian,Critically Endangered,5
+S,Sumatran Orangutan,Pongo abelii,Borneo and Sumatra,Asian,Critically Endangered,5
+S,Sumatran Rhino,Dicerorhinus sumatrensis,Borneo and Sumatra,Asian,Critically Endangered,5
+S,Sumatran Tiger,Panthera tigris sumatrae,Borneo and Sumatra,Asian,Critically Endangered,5
+S,Swift Fox,Vulpes velox,Northern Great Plains,North American,Least Concern,1
+T,Tiger,Panthera tigris,Papua New Guinea,Australian,Endangered,4
+T,Tree Kangaroo,Dendrolagus sp.,Coastal East Africa,African,Least Concern,1
+V,Vaquita,Phocoena sinus,Gulf of California,North American,Critically Endangered,5
+W,Western Lowland Gorilla,Gorilla gorilla gorilla,Congo Basin,African,Critically Endangered,5
+W,Whale,"Balaenoptera, Balaena, Eschrichtius, and Eubalaen",The Galapagos,South American,Endangered,4
+W,Whale Shark,Rhincodon typus,Coastal East Africa,African,Endangered,4
+W,White Rhino,Ceratotherium simum,Coastal East Africa,African,Near Threatened,2
+Y,Yangtze Finless Porpoise,Neophocaena asiaeorientalis ssp. asiaeorientalis,Yangtze,Asian,Critically Endangered,5
+Y,Yellowfin Tuna,Thunnus albacares,Coral Triangle,Asian,Near Threatened,2
